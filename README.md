@@ -16,5 +16,5 @@ Welcome To My Github Repo [ The place where all my linux setups,backups,tutorial
 
 <p align="center">
 <a href="https://twitter.com/leomoot" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="leomoot" height="20" width="20" /></a>
-<a href="https://linkedin.com/in/leo-moot-43a7861" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="leomoot" height="20" width="20" /></a>
+<a href="https://www.linkedin.com/in/leo-moot-43a78613/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="leomoot" height="20" width="20" /></a>
 </p>
