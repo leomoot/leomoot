@@ -1,6 +1,4 @@
-### Hi there 👋
-
-# My Repo Info
+### Hi there 👋, I'm Leo Moot
 
 <center>
 <table>
