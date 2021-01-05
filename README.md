@@ -1,16 +1,19 @@
 ### Hi there 👋
 
-<!--
-**leomoot/leomoot** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# My Repo Info
 
-Here are some ideas to get you started:
+<center>
+<table>
+  <tr>
+      <td><img width="385px" align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sam1431&hide=html&hide_border=true&theme=dracula" /></td>
+      <td><img width="475px" align="left" src="https://github-readme-stats.vercel.app/api?username=Sam1431&count_private=false&theme=dracula&hide_border=true&show_icons=true&include_all_commits=true" /></td>
+  </tr>   
+</table>
+</center>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+```
+Welcome To My Github Repo [ The place where all my linux setups,backups,tutorials resides ]
+```
+
+
+
