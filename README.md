@@ -24,7 +24,7 @@ Welcome To My Github Repo [ The place where all my linux setups,backups,tutorial
 ![](https://img.shields.io/badge/Code-C++-informational?style=flat&logo=c%2B%2B&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Code-Golang-informational?style=flat&logo=go&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Code-Make-informational?style=flat&logo=cmake&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Code-Maven-informational?style=flat&logo=maven&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Build-Maven-informational?style=flat&logo=apachemaven&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Shell-Bash-informational?style=flat&logo=gnu-bash&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Database-Oracle-informational?style=flat&logo=oracle&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Database-MySQL-informational?style=flat&logo=mysql&logoColor=white&color=2bbc8a)
