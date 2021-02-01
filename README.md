@@ -32,6 +32,6 @@ Welcome To My Github Repo [ The place where all my linux setups,backups,tutorial
 ![](https://img.shields.io/badge/Cloud-AWS-informational?style=flat&logo=aws&logoColor=white&color=2bbc8a)
 
 <p align="center">
-<a href="https://twitter.com/leomoot" target="blank"><img align="center" src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="leomoot" height="20" width="20" /></a>
+<a href="https://twitter.com/leomoot" target="blank"><img align="center" src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="leomoot"/></a>
 <a href="https://www.linkedin.com/in/leo-moot-43a78613/" target="blank"><img align="center" src="https://s@3.0.1/icons/linkedin.svg" alt="leomoot" height="20" width="20" /></a>
 </p>
