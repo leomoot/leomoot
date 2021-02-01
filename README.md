@@ -14,7 +14,7 @@ Welcome To My Github Repo [ The place where all my linux setups,backups,tutorial
 ```
 ## 🔧 Technologies & Tools
 ![](https://img.shields.io/badge/OS-Linux-informational?style=flat&logo=linux&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Editor-Visual Code-informational?style=flat&logo=visualcode-idea&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Editor-Visual-Code-informational?style=flat&logo=visualcode-idea&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Editor-Eclipse-informational?style=flat&logo=eclipse-idea&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Code-Java-informational?style=flat&logo=java&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Code-C-informational?style=flat&logo=c&logoColor=white&color=2bbc8a)
