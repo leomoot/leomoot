@@ -12,11 +12,21 @@
 ```
 Welcome To My GitHub Repo
 
-I'm a fast learner and can adapt very quickly to changing environments. This is partly as a result of my strong technical background and my excellent communication skills. My focus is very customeroriented and in recent years I've gained a lot of experience working in a variety of small to large companies. 
+I'm a fast learner and can adapt very quickly to changing environments. This is partly as a result of my strong
+technical background and my excellent communication skills. My focus is very customeroriented and in recent years 
+I've gained a lot of experience working in a variety of small to large companies. 
 
-My ideal working environment would be in the leading-edge of technology, engineering, integration, customer and sales. I have worked in large multinational companies and can operate effortlessly and efficiently in an English-speaking environment. I'm willing to give 110% percent to any assignment and always keeps a clear goal, working with people in multiple disciplines. My pragmatic and result-oriented approach contributes in a positive way to any assignment and the end-result of products, technologies and communities.
+My ideal working environment would be in the leading-edge of technology, engineering, integration, customer and 
+sales. I have worked in large multinational companies and can operate effortlessly and efficiently in an 
+English-speaking environment. 
 
-Colleagues quickly ask for my help, they know that I  get a lot of satisfaction from being able to solve something. That's why I'm jokingly called the Leonardo da Vinci of the workplace. Which is a strange comparison because Leonardo wasn't as good with Java as I  am.
+I'm willing to give 110% percent to any assignment and always keeps a clear goal, working with people in 
+multiple disciplines. My pragmatic and result-oriented approach contributes in a positive way to any assignment 
+and the end-result of products, technologies and communities.
+
+Colleagues quickly ask for my help, they know that I  get a lot of satisfaction from being able to solve something. 
+That's why I'm jokingly called the Leonardo da Vinci of the workplace. Which is a strange comparison because 
+Leonardo wasn't as good with Java as I am.
 ```
 ## 🔧 Technologies & Tools
 ![](https://img.shields.io/badge/OS-Linux-informational?style=flat&logo=linux&logoColor=white&color=2bbc8a)
