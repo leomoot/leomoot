@@ -31,7 +31,7 @@ Which is a strange comparison because Leonardo wasn't as good with Java as I am.
 ```
 ## 🔧 Technologies & Tools
 ![](https://img.shields.io/badge/OS-Linux-informational?style=flat&logo=linux&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Editor-VisualStudioCode-informational?style=flat&logo=visual%20studio%20codeColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Editor-Visual%20Studio%20Code-informational?style=flat&logo=visual%20studio%20codeColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Editor-Eclipse-informational?style=flat&logo=eclipse&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Code-Java-informational?style=flat&logo=openjdk&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Code-C-informational?style=flat&logo=c&logoColor=white&color=2bbc8a)
