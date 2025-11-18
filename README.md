@@ -53,6 +53,7 @@ particularly in Java.
 ![](https://img.shields.io/badge/Tools-Azure%20DevOps-0089D6?style=flat&logo=azure-devops&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Tools-Ansible-%235835CC.svg?style=flat&logo=terraform&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Cloud-Microsoft_Azure-0089D6?style=flat&logo=microsoft-azure&logoColor=white&color=2bbc8a)
+[![Microsoft Azure](https://custom-icon-badges.demolab.com/badge/Microsoft%20Azure-0089D6?logo=msazure&logoColor=white)](#)
 <p align="center">
 <a href="https://twitter.com/leomoot" target="blank"><img align="center" src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="leo moot"/></a>
 <a href="https://www.linkedin.com/in/leo-moot-43a78613/" target="blank"><img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="leo moot" /></a>
