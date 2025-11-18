@@ -32,7 +32,7 @@ particularly in Java.
 ```
 ## 🔧 Technologies & Tools
 ![](https://img.shields.io/badge/OS-Linux-informational?style=flat&logo=linux&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Editor-VS%20Code-informational?style=flat&logo=visual%20studio%20codeColor=white&color=2bbc8a)
+[![Visual Studio Code](https://custom-icon-badges.demolab.com/badge/Visual%20Studio%20Code-0078d7.svg?logo=vsc&logoColor=white)](#)
 ![](https://img.shields.io/badge/Editor-Eclipse-informational?style=flat&logo=eclipse&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Code-Java-informational?style=flat&logo=openjdk&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Code-C-informational?style=flat&logo=c&logoColor=white&color=2bbc8a)
@@ -52,7 +52,6 @@ particularly in Java.
 ![](https://img.shields.io/badge/Tools-Git-informational?style=flat&logo=git&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Tools-Azure%20DevOps-0089D6?style=flat&logo=azure-devops&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Tools-Ansible-%235835CC.svg?style=flat&logo=terraform&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Cloud-Microsoft_Azure-0089D6?style=flat&logo=microsoft-azure&logoColor=white&color=2bbc8a)
 [![Microsoft Azure](https://custom-icon-badges.demolab.com/badge/Microsoft%20Azure-0089D6?logo=msazure&logoColor=white)](#)
 <p align="center">
 <a href="https://twitter.com/leomoot" target="blank"><img align="center" src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="leo moot"/></a>
