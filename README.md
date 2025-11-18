@@ -25,9 +25,7 @@ I'm willing to give 110% percent to any assignment and always keeps a clear goal
 people in multiple disciplines. My pragmatic and result-oriented approach contributes in a positive
 way to any assignment and the end-result of products, technologies and communities.
 
-Colleagues quickly ask for my help, they know that I  get a lot of satisfaction from being able 
-to solve something. That's why I'm jokingly called the Leonardo da Vinci of the workplace. 
-Which is a strange comparison because Leonardo wasn't as good with Java as I am.
+Colleagues often seek his help for complex problems, knowing he gets great satisfaction from finding effective solutions. His reputation as a versatile problem-solver has earned him the nickname "the Leonardo da Vinci of the workplace" a testament to his broad technical skill, particularly in Java.
 ```
 ## 🔧 Technologies & Tools
 ![](https://img.shields.io/badge/OS-Linux-informational?style=flat&logo=linux&logoColor=white&color=2bbc8a)
