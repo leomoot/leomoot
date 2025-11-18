@@ -37,7 +37,7 @@ particularly in Java.
 ![](https://img.shields.io/badge/Code-Java-informational?style=flat&logo=openjdk&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Code-C-informational?style=flat&logo=c&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Code-C++-informational?style=flat&logo=c%2B%2B&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Framework-Spring-informational?style=flat&logo=spring&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Framework-Spring%20Boot-informational?style=flat&logo=spring&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Code-Assembly%20x86-informational?style=flat&logo=assembly&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Build-Maven-informational?style=flat&logo=apache-maven&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Shell-Bash-informational?style=flat&logo=gnu-bash&logoColor=white&color=2bbc8a)
@@ -51,9 +51,7 @@ particularly in Java.
 ![](https://img.shields.io/badge/Tools-Kubernetes-informational?style=flat&logo=kubernetes&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Tools-Git-informational?style=flat&logo=git&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Tools-Azure%20DevOps-0089D6?style=flat&logo=azure-devops&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Tools-Terraform-%235835CC.svg?style=flat&logo=terraform&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Tools-Ansible-%235835CC.svg?style=flat&logo=terraform&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Cloud-Amazon-informational?style=flat&logo=amazon-aws&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Cloud-Microsoft_Azure-0089D6?style=flat&logo=microsoft-azure&logoColor=white&color=2bbc8a)
 <p align="center">
 <a href="https://twitter.com/leomoot" target="blank"><img align="center" src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="leo moot"/></a>
